@@ -1,0 +1,18 @@
+Araştırmanın Konu Listesi:
+•	Potasyometre nedir?  Çalışma Prensibi nedir? Uygulama alanları nedir? (Amfilerde nasıl kullanılır ne işe yarar? ses kontrolü) +
+•	Potasyometre ile Servo Motor kontrolü yapınız. (Wokwi sitesi üzerinden Arduino ile yapılabilir yardım isteyebilirsiniz, kodlar diye şekil olarak atınız)  +
+•	HC-SR04 ile Uzaklık ölçümü yapınız. Gelen verilere göre Buzzer bağlayınız (Park sensörü gerçekleyiniz, kodlar diye şekil olarak atınız)  +
+•	PWM Sinyali nedir? PWM Sinyali ne tür uygulamalarda kullanılır? Bu uygulamaları araştırınız ve PWM’in önemini açıklayınız. +
+•	LDR ile LED parlaklığı kontrülü yapınız. +
+•	LİDAR nedir? Çalışma prensibi nedir? Hangi uygulamalarda kullanılır? +
+•	Wokwi üzerinden yapan arkadaşlar devrelerini .json formatında kaydetmesi gerekmektedir. 
+•	Yazılım ekibi üyesi arkadaşlar oluşturulacak github reposuna, hafta sonu verilen eğitimden sonra .json ve kodlarını pushlamları gerekmektedir.
+
+
+İstenilen Rapor Formatı:
+•	Rapor A4 formatında, 12 punto Arial, satır aralığı 1.15 ve alt-üst ve yan kenarları 2.5 cm olacak şekilde yazılmalıdır.
+•	Satırlar sağdan ve soldan hizalı şekilde yazılmalıdır. (Orta başlıklar ve şekil isimlendirmeleri hariç.)
+•	Başlıklar kalın olarak yazılmalıdır.
+•	Rapor içinde kullanılan bütün görseller ‘’ Şekil 1.1. Araç Kontrol Sistemi ‘’ şekline benzer şekilde isimlendirilmelidir. Bu şekil isimlendirmesi görselin hemen altına ve sayfayı ortalayacak şekilde konulmalıdır.
+•	Dosya adını ADINIZ _SOYADINIZ_RAPOR2 şeklinde gönderiniz.
+•	Dosya formatının docx olmasına dikkat ediniz.
